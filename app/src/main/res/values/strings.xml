@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Petugas</string>
+    <string name="title_activity_push_notification">PushNotificationActivity</string>
+    <string name="loading">Loading…</string>
+    <string name="image_from_firebase">Image from firebase</string>
+    <string name="judul">Judul</string>
+    <string name="pesan">Pesan</string>
+    <string name="kirim">Kirim</string>
+</resources>
